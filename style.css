@@ -23,6 +23,14 @@ body {
     cursor: pointer;
 }
 
-.counter {
+.h2 {
     font-size: 3rem;
+}
+
+.increase {
+    color: #0f0;
+}
+
+.decrease {
+    color: #f00
 }
